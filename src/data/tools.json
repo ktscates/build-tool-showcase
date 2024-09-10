@@ -1,0 +1,27 @@
+[
+  { "name": "Webpack", "description": "A bundler for JavaScript." },
+  { "name": "Gulp", "description": "A toolkit to automate tasks." },
+  { "name": "Parcel", "description": "A zero-config bundler." },
+  { "name": "Grunt", "description": "A JavaScript task runner." },
+  { "name": "Rollup", "description": "A module bundler for JavaScript." },
+  {
+    "name": "Vite",
+    "description": "A fast build tool optimized for modern web development."
+  },
+  {
+    "name": "Browserify",
+    "description": "A bundler to run Node.js modules in the browser."
+  },
+  {
+    "name": "npm scripts",
+    "description": "Native task runner using package.json scripts."
+  },
+  {
+    "name": "ESBuild",
+    "description": "An extremely fast bundler and minifier."
+  },
+  {
+    "name": "Snowpack",
+    "description": "A build tool for faster, modern web development."
+  }
+]
